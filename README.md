@@ -1,6 +1,6 @@
 - 👋 Olá meu nome é @endrikygoncalves
 - 👀 Eu estou interessado em aprender a programar 
-- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
 
 
 <!---
